@@ -1,0 +1,5 @@
+.sync/
+.ipynb_checkpoints/
+.Rhistory
+__pycache__/
+Algandmed/
